@@ -16,7 +16,7 @@ The repository root is the addon. Clone or copy it to:
 
 ## Minimap
 
-The button starts on the upper-right edge of the minimap. Left-click shows or hides the name panel. Drag it around the minimap edge to move it. Escape or the panel close button hides the panel.
+The button starts on the upper-left edge of the minimap, at 10 o'clock. Left-click shows or hides the name panel. Drag it around the minimap edge to move it. Escape or the panel close button hides the panel.
 
 ## Slash commands
 

@@ -1,7 +1,8 @@
 -- Private addon table from the loader. Not a saved variable.
 local addonName, SerialWarcraft = ...
 
-local DEFAULT_ANGLE = 60
+local DEFAULT_ANGLE = 150
+local OLD_DEFAULT_ANGLE = 60
 
 SerialWarcraft.frame = CreateFrame("Frame")
 
@@ -24,7 +25,8 @@ local function EnsureDB()
 	if type(SerialWarcraftDB) ~= "table" then
 		SerialWarcraftDB = {}
 	end
-	if type(SerialWarcraftDB.angle) ~= "number" then
+	local angle = SerialWarcraftDB.angle
+	if type(angle) ~= "number" or angle == OLD_DEFAULT_ANGLE then
 		SerialWarcraftDB.angle = DEFAULT_ANGLE
 	end
 end
