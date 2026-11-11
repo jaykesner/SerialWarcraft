@@ -1,6 +1,6 @@
 # SerialWarcraft
 
-Minimal World of Warcraft: Forever addon. The minimap button invites Ailene Wuornoz or toggles group loot, and glows while she is online and not in the group. Dragging the button saves its angle.
+Minimal World of Warcraft: Forever addon. The minimap button invites a community character or toggles group loot, and glows while that character is online and not in the group. Defaults are the SerialWarcraft community and Ailene Wuornoz. Dragging the button saves its angle.
 
 ## Client
 
@@ -18,9 +18,9 @@ The repository root is the addon. Clone or copy it to:
 
 The button starts on the upper-left edge of the minimap, at 10 o'clock. Drag it around the minimap edge to move it.
 
-Right-click shows or hides the name panel. Escape or the panel close button also hides it.
+Right-click shows or hides the settings panel. It shows the addon name, and edits the community name, character name, glow texture, glow size, and glow opacity. Those values are saved and apply immediately. Escape or the panel close button hides the panel.
 
-Left-click invites Ailene Wuornoz when she is not in your group. When she is in the group, the group leader toggles loot between group loot and free for all. The button glows while she is online and not in the group.
+Left-click invites the saved character when they are not in your group. When they are in the group, the group leader toggles loot between group loot and free for all. The button glows while that character is online and not in the group.
 
 ## Slash commands
 
