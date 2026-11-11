@@ -3,7 +3,7 @@
 ## Notes: Minimap button that toggles the addon name.
 ## Author: placeholder
 ## Version: 0.1.0
-## IconTexture: Interface\AddOns\SerialWarcraft\Media\icon
+## IconTexture: Interface\AddOns\SerialWarcraft\Media\icon-face
 ## SavedVariables: SerialWarcraftDB
 
 SerialWarcraft.lua

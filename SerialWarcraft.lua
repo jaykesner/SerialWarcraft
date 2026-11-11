@@ -43,7 +43,7 @@ SerialWarcraft.button = button
 local icon = button:CreateTexture(nil, "BACKGROUND")
 icon:SetSize(20, 20)
 icon:SetPoint("TOPLEFT", 7, -5)
-icon:SetTexture("Interface\\AddOns\\" .. addonName .. "\\Media\\icon")
+icon:SetTexture("Interface\\AddOns\\" .. addonName .. "\\Media\\icon-face")
 
 local border = button:CreateTexture(nil, "OVERLAY")
 border:SetSize(53, 53)
