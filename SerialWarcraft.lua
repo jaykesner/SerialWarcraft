@@ -51,7 +51,7 @@ border:SetPoint("TOPLEFT")
 border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
 
 local glow = CreateFrame("Frame", nil, button)
-glow:SetSize(46, 46)
+glow:SetSize(28, 28)
 glow:SetPoint("CENTER", icon, "CENTER", 0, 0)
 glow:SetFrameLevel(button:GetFrameLevel() + 1)
 glow:Hide()
