@@ -1,6 +1,6 @@
 # SerialWarcraft
 
-Minimal World of Warcraft: Forever addon. It creates an addon frame and namespace and does not use saved variables.
+Minimal World of Warcraft: Forever addon. The minimap button toggles a panel that shows the addon name. Dragging the button saves its angle.
 
 ## Client
 
@@ -13,6 +13,10 @@ Minimal World of Warcraft: Forever addon. It creates an addon frame and namespac
 The repository root is the addon. Clone or copy it to:
 
 `World of Warcraft/_forever_/Interface/AddOns/SerialWarcraft`
+
+## Minimap
+
+The button starts on the upper-right edge of the minimap. Left-click shows or hides the name panel. Drag it around the minimap edge to move it. Escape or the panel close button hides the panel.
 
 ## Slash commands
 

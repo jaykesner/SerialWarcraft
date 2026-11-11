@@ -1,7 +1,8 @@
 ## Interface: 16001
 ## Title: SerialWarcraft
-## Notes: Minimal World of Warcraft: Forever addon scaffold.
+## Notes: Minimap button that toggles the addon name.
 ## Author: placeholder
 ## Version: 0.1.0
+## SavedVariables: SerialWarcraftDB
 
 SerialWarcraft.lua
