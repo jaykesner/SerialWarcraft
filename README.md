@@ -10,7 +10,7 @@ Minimal World of Warcraft: Forever addon. It creates an addon frame and namespac
 
 ## Install
 
-Copy the `SerialWarcraft` folder to:
+The repository root is the addon. Clone or copy it to:
 
 `World of Warcraft/_forever_/Interface/AddOns/SerialWarcraft`
 
