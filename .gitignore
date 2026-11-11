@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+.vscode
+.netlify
+
+# Secrets and local credentials
+.env
+.env.*
+*.pem
+*.key
+secrets.*

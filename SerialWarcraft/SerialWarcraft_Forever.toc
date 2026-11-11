@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: SerialWarcraft
+## Notes: Minimal World of Warcraft: Forever addon scaffold.
+## Author: placeholder
+## Version: 0.1.0
+
+SerialWarcraft.lua
